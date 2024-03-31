@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "925886768678",
+    "project_id": "bugdex-74d33",
+    "storage_bucket": "bugdex-74d33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925886768678:android:4ba2db9b9490592d8868e7",
+        "android_client_info": {
+          "package_name": "com.example.bugdex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBJ4E_fb7F4sZ1R1VlpPxiQCnzGdrAi8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925886768678:android:678d0ccde0d7d2cf8868e7",
+        "android_client_info": {
+          "package_name": "com.vech.bugdex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBJ4E_fb7F4sZ1R1VlpPxiQCnzGdrAi8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
